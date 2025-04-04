@@ -1,5 +1,4 @@
-# 🗣️ Deep Speech Processing
-🗣️→🎙️→🌀→🔊
+# 🗣️→🎙️→🌀→🔊 Deep Speech Processing
 Scripts for analyzing speech signals
 ---
 ## 📦 Requirements
